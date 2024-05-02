@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.5 PTA-novinky", "2.5 PTA-novinky\2.5 PTA-novinky.csproj", "{A9F48E97-0475-42F9-B2BC-EBCDC31B579A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9F48E97-0475-42F9-B2BC-EBCDC31B579A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F48E97-0475-42F9-B2BC-EBCDC31B579A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F48E97-0475-42F9-B2BC-EBCDC31B579A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F48E97-0475-42F9-B2BC-EBCDC31B579A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C1A197F-9025-40FA-8346-55547338F574}
+	EndGlobalSection
+EndGlobal
